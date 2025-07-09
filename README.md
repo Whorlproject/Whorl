@@ -23,7 +23,7 @@ A secure, 100% anonymous, peer-to-peer messenger with no central server and end-
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/whorl.git
+   git clone https://github.com/Whorlproject/Whorl.git
    cd whorl
    ```
 
